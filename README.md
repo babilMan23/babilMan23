@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @babilMan23
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning : Vulkan!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i started coding when i was seven!
